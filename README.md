@@ -1,2 +1,2 @@
 # TrabalhoP2Dimmy
-todaa implementação esta na pasta classe MinHeap dentro da pasta src 
+toda a implementação do stract-min está na pasta classe MinHeap dentro da pasta src 
